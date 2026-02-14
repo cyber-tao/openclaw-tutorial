@@ -128,4 +128,4 @@ docs/
 
 ---
 
-<p align="center">由 OpenClaw 团队用 ❤️ 构建</p>
+<p align="center">Built with ❤️ by itself</p>
