@@ -41,6 +41,13 @@ features:
   <h2>Quick Start</h2>
 
   ::: code-group
+  ```bash [One-line]
+  # macOS / Linux
+  curl -fsSL https://openclaw.ai/install.sh | bash
+
+  # Windows (PowerShell)
+  iwr -useb https://openclaw.ai/install.ps1 | iex
+  ```
   ```bash [npm]
   npm install -g openclaw
   openclaw start

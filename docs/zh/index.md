@@ -41,6 +41,13 @@ features:
   <h2>快速开始</h2>
 
   ::: code-group
+  ```bash [一键安装]
+  # macOS / Linux
+  curl -fsSL https://openclaw.ai/install.sh | bash
+
+  # Windows (PowerShell)
+  iwr -useb https://openclaw.ai/install.ps1 | iex
+  ```
   ```bash [npm]
   npm install -g openclaw
   openclaw start
