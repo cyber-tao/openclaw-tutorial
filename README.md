@@ -1,8 +1,6 @@
-# OpenClaw Tutorial - Modern AI Assistant Guide
+[English](README.md) | [中文](README_zh.md)
 
-<p align="center">
-  <img src="https://openclaw.com/images/logo.png" alt="OpenClaw Logo" width="200"/>
-</p>
+# OpenClaw Tutorial - Modern AI Assistant Guide
 
 > A comprehensive guide to OpenClaw, the modern AI assistant framework
 
@@ -22,7 +20,7 @@ OpenClaw is a powerful, flexible AI assistant framework designed for developers 
 
 ## 📖 Table of Contents
 
-### Getting Started (English)
+### Getting Started
 - [Installation](docs/guide/installation.md)
 - [Quick Start](docs/guide/quick-start.md)
 - [Getting Started](docs/guide/getting-started.md)
@@ -78,43 +76,6 @@ npm run dev
 ```
 
 Visit `http://localhost:3000` to see the tutorial in action.
-
----
-
-## 中文教程
-
-欢迎使用 OpenClaw 中文教程！
-
-### 入门指南
-- [安装](docs/zh/guide/installation.md)
-- [快速开始](docs/zh/guide/quick-start.md)
-- [入门指南](docs/zh/guide/getting-started.md)
-- [什么是 OpenClaw？](docs/zh/guide/what-is-openclaw.md)
-- [基础用法](docs/zh/guide/basic-usage.md)
-
-### 核心概念
-- [频道](docs/zh/core/channels.md)
-- [会话](docs/zh/core/sessions.md)
-- [安全](docs/zh/core/security.md)
-- [工具](docs/zh/core/tools.md)
-
-### 高级主题
-- [多智能体系统](docs/zh/advanced/multi-agent.md)
-- [技能](docs/zh/advanced/skills.md)
-- [自动化](docs/zh/advanced/automation.md)
-- [部署](docs/zh/advanced/deployment.md)
-
-### 示例
-- [开发者助手](docs/zh/examples/dev-assistant.md)
-- [个人助理](docs/zh/examples/personal-assistant.md)
-- [智能家居](docs/zh/examples/smart-home.md)
-
-### 参考
-- [CLI 参考](docs/zh/reference/cli.md)
-- [API 参考](docs/zh/reference/api.md)
-- [配置](docs/zh/reference/config.md)
-- [常见问题](docs/zh/reference/faq.md)
-- [故障排除](docs/zh/reference/troubleshooting.md)
 
 ---
 
