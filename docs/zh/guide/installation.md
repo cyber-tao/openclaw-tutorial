@@ -2,6 +2,22 @@
 
 在你的系统上安装并运行 OpenClaw。选择你喜欢的安装方式。
 
+## 一键安装 (推荐)
+
+最快安装 OpenClaw 的方式：
+
+::: code-group
+```bash [macOS/Linux]
+curl -fsSL https://openclaw.ai/install.sh | bash
+```
+
+```powershell [Windows (PowerShell)]
+iwr -useb https://openclaw.ai/install.ps1 | iex
+```
+:::
+
+就这么简单！安装程序会自动检测你的操作系统，安装依赖并完成所有配置。
+
 ## 系统要求
 
 安装前，请确保你的系统满足以下要求：
