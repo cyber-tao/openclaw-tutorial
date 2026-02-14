@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/openclaw-tutorial/',
   title: 'OpenClaw',
   description: 'Modern AI Assistant Tutorial',
   ignoreDeadLinks: true,
