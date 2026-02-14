@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="clawGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF8C5A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Claw body -->
+  <ellipse cx="50" cy="55" rx="35" ry="30" fill="url(#clawGradient)"/>
+  <!-- Eyes -->
+  <circle cx="35" cy="50" r="8" fill="#fff"/>
+  <circle cx="65" cy="50" r="8" fill="#fff"/>
+  <circle cx="37" cy="50" r="4" fill="#1A1A2E"/>
+  <circle cx="67" cy="50" r="4" fill="#1A1A2E"/>
+  <!-- Claws -->
+  <path d="M20 30 Q15 15 25 20 Q30 25 25 35 Z" fill="url(#clawGradient)"/>
+  <path d="M80 30 Q85 15 75 20 Q70 25 75 35 Z" fill="url(#clawGradient)"/>
+  <path d="M50 25 Q50 10 55 15 Q60 20 55 30 Z" fill="url(#clawGradient)"/>
+  <!-- Smile -->
+  <path d="M35 65 Q50 75 65 65" stroke="#1A1A2E" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
